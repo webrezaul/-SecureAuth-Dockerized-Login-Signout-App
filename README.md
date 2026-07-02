@@ -177,7 +177,7 @@ docker compose up -d --build
 ssh user@your-server
 
 # Clone and run
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/webrezaul/-SecureAuth-Dockerized-Login-Signout-App
 cd YOUR_REPO
 docker compose up -d --build
 ```
