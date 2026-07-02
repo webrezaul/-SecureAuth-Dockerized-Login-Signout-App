@@ -58,7 +58,7 @@ Before you begin, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/webrezaul/-SecureAuth-Dockerized-Login-Signout-App
 cd YOUR_REPO
 ```
 
