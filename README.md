@@ -210,5 +210,5 @@ MIT
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Rezaul Karim**
+- GitHub: [@webrezaul](https://github.com/webrezaul)
